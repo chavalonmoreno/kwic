@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kwic.iml" filepath="$PROJECT_DIR$/kwic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kwic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kwic_main.iml" group="kwic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kwic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kwic_test.iml" group="kwic" />
     </modules>
   </component>
 </project>
